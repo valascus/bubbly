@@ -1,0 +1,37 @@
+{
+  "name": "Bubbly Event & Cake Design",
+  "short_name": "Bubbly",
+  "description": "Bolos personalizados e decoração de festas na Póvoa de Lanhoso (Braga).",
+  "lang": "pt-PT",
+  "start_url": "/bubbly/",
+  "scope": "/bubbly/",
+  "display": "standalone",
+  "theme_color": "#fff8fb",
+  "background_color": "#fff8fb",
+  "icons": [
+    {
+      "src": "/bubbly/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/bubbly/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/bubbly/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/bubbly/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
