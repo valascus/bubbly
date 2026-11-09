@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://valascus.github.io/bubbly/sitemap-index.xml
